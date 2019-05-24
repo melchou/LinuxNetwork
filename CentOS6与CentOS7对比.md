@@ -1,0 +1,1 @@
+CentOS6与CentOS7对比
